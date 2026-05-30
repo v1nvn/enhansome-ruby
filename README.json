@@ -15,7 +15,7 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-05-28T16:48:50Z",
+            "last_commit": "2026-05-29T12:08:20Z",
             "owner": "activescaffold",
             "repo": "active_scaffold",
             "stars": 1133
@@ -93,7 +93,7 @@
             "last_commit": "2025-09-14T08:02:22Z",
             "owner": "railsadminteam",
             "repo": "rails_admin",
-            "stars": 7953
+            "stars": 7954
           }
         },
         {
@@ -106,7 +106,7 @@
             "last_commit": "2025-09-25T12:30:55Z",
             "owner": "TrestleAdmin",
             "repo": "trestle",
-            "stars": 1995
+            "stars": 1996
           }
         }
       ],
@@ -138,7 +138,7 @@
             "last_commit": "2026-04-08T19:22:44Z",
             "owner": "ankane",
             "repo": "ahoy",
-            "stars": 4454
+            "stars": 4456
           }
         },
         {
@@ -258,7 +258,7 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-05-27T15:56:21Z",
+            "last_commit": "2026-05-29T18:05:28Z",
             "owner": "procore-oss",
             "repo": "blueprinter",
             "stars": 1299
@@ -575,7 +575,7 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-05-28T08:50:38Z",
+            "last_commit": "2026-05-30T02:32:11Z",
             "owner": "shakacode",
             "repo": "shakapacker",
             "stars": 485
@@ -856,7 +856,7 @@
             "last_commit": "2026-03-25T10:05:47Z",
             "owner": "palkan",
             "repo": "action_policy",
-            "stars": 1558
+            "stars": 1559
           }
         },
         {
@@ -963,10 +963,10 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-05-29T00:45:32Z",
+            "last_commit": "2026-05-30T02:39:17Z",
             "owner": "huginn",
             "repo": "huginn",
-            "stars": 49347
+            "stars": 49359
           }
         },
         {
@@ -1024,7 +1024,7 @@
             "last_commit": "2024-09-01T15:08:58Z",
             "owner": "lassebunk",
             "repo": "gretel",
-            "stars": 890
+            "stars": 891
           }
         },
         {
@@ -1490,7 +1490,7 @@
             "last_commit": "2026-05-25T22:18:54Z",
             "owner": "ruby",
             "repo": "rake",
-            "stars": 2448
+            "stars": 2449
           }
         },
         {
@@ -1722,7 +1722,7 @@
             "last_commit": "2026-05-24T12:30:43Z",
             "owner": "tmuxinator",
             "repo": "tmuxinator",
-            "stars": 13612
+            "stars": 13615
           }
         },
         {
@@ -1751,7 +1751,7 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-05-28T19:37:50Z",
+            "last_commit": "2026-05-29T19:30:31Z",
             "owner": "aws",
             "repo": "aws-sdk-ruby",
             "stars": 3654
@@ -1793,7 +1793,7 @@
             "last_commit": "2026-03-25T14:47:08Z",
             "owner": "kddnewton",
             "repo": "humidifier",
-            "stars": 57
+            "stars": 56
           }
         }
       ],
@@ -2060,7 +2060,7 @@
             "last_commit": "2025-11-24T02:03:19Z",
             "owner": "github",
             "repo": "scientist",
-            "stars": 7710
+            "stars": 7711
           }
         },
         {
@@ -2070,7 +2070,7 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-05-28T21:30:30Z",
+            "last_commit": "2026-05-30T01:45:18Z",
             "owner": "simplecov-ruby",
             "repo": "simplecov",
             "stars": 4898
@@ -2083,7 +2083,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-05-29T01:05:12Z",
+            "last_commit": "2026-05-29T21:46:11Z",
             "owner": "sorbet",
             "repo": "sorbet",
             "stars": 3775
@@ -2197,7 +2197,7 @@
             "last_commit": "2026-05-28T22:36:14Z",
             "owner": "rubocop",
             "repo": "rubocop",
-            "stars": 12871
+            "stars": 12874
           }
         },
         {
@@ -2229,7 +2229,7 @@
             "last_commit": "2025-09-05T18:42:36Z",
             "owner": "rubychan",
             "repo": "coderay",
-            "stars": 865
+            "stars": 866
           }
         },
         {
@@ -2252,10 +2252,10 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-05-27T16:38:07Z",
+            "last_commit": "2026-05-29T16:39:48Z",
             "owner": "rouge-ruby",
             "repo": "rouge",
-            "stars": 3430
+            "stars": 3432
           }
         }
       ],
@@ -2593,10 +2593,10 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-05-29T06:07:59Z",
+            "last_commit": "2026-05-29T20:16:47Z",
             "owner": "rails",
             "repo": "rails",
-            "stars": 58462
+            "stars": 58463
           }
         },
         {
@@ -2951,10 +2951,10 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-05-28T17:11:34Z",
+            "last_commit": "2026-05-29T16:10:35Z",
             "owner": "hitobito",
             "repo": "hitobito",
-            "stars": 469
+            "stars": 470
           }
         }
       ],
@@ -3031,7 +3031,7 @@
             "last_commit": "2026-05-27T19:34:55Z",
             "owner": "ankane",
             "repo": "blazer",
-            "stars": 4783
+            "stars": 4784
           }
         },
         {
@@ -3122,7 +3122,7 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-05-28T00:48:23Z",
+            "last_commit": "2026-05-30T00:51:31Z",
             "owner": "Multiwoven",
             "repo": "multiwoven",
             "stars": 1659
@@ -3256,7 +3256,7 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-05-27T18:48:43Z",
+            "last_commit": "2026-05-29T10:03:36Z",
             "owner": "mongodb",
             "repo": "mongo-ruby-driver",
             "stars": 1433
@@ -3363,7 +3363,7 @@
             "last_commit": "2026-03-29T10:31:34Z",
             "owner": "rails-sqlserver",
             "repo": "tiny_tds",
-            "stars": 615
+            "stars": 614
           }
         },
         {
@@ -3421,7 +3421,7 @@
             "last_commit": "2026-05-23T13:15:56Z",
             "owner": "djezzzl",
             "repo": "database_consistency",
-            "stars": 1188
+            "stars": 1189
           }
         },
         {
@@ -3470,7 +3470,7 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-05-28T23:33:33Z",
+            "last_commit": "2026-05-29T13:52:31Z",
             "owner": "fatkodima",
             "repo": "online_migrations",
             "stars": 738
@@ -3499,7 +3499,7 @@
             "last_commit": "2026-04-27T09:09:46Z",
             "owner": "ankane",
             "repo": "pghero",
-            "stars": 8875
+            "stars": 8876
           }
         },
         {
@@ -3739,7 +3739,7 @@
             "last_commit": "2026-05-16T08:14:51Z",
             "owner": "holidays",
             "repo": "holidays",
-            "stars": 875
+            "stars": 876
           }
         },
         {
@@ -3898,7 +3898,7 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-05-26T01:55:17Z",
+            "last_commit": "2026-05-29T22:45:52Z",
             "owner": "deivid-rodriguez",
             "repo": "byebug",
             "stars": 3351
@@ -3995,7 +3995,7 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-02-28T12:11:47Z",
+            "last_commit": "2026-05-29T22:35:41Z",
             "owner": "drapergem",
             "repo": "draper",
             "stars": 5273
@@ -4066,10 +4066,10 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-05-27T00:09:08Z",
+            "last_commit": "2026-05-29T17:17:36Z",
             "owner": "cloudfoundry",
             "repo": "bosh",
-            "stars": 2075
+            "stars": 2074
           }
         },
         {
@@ -4097,7 +4097,7 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-05-29T04:25:39Z",
+            "last_commit": "2026-05-30T00:10:31Z",
             "owner": "chef",
             "repo": "chef",
             "stars": 8179
@@ -4154,7 +4154,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-05-28T23:17:10Z",
+            "last_commit": "2026-05-29T20:11:59Z",
             "owner": "elastic",
             "repo": "logstash",
             "stars": 14860
@@ -4170,7 +4170,7 @@
             "last_commit": "2026-04-29T08:38:35Z",
             "owner": "basecamp",
             "repo": "kamal",
-            "stars": 14249
+            "stars": 14260
           }
         },
         {
@@ -4387,7 +4387,7 @@
             "last_commit": "2025-11-24T22:15:31Z",
             "owner": "gollum",
             "repo": "gollum",
-            "stars": 14275
+            "stars": 14277
           }
         },
         {
@@ -4556,7 +4556,7 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-05-27T15:05:18Z",
+            "last_commit": "2026-05-29T22:07:29Z",
             "owner": "solidusio",
             "repo": "solidus",
             "stars": 5302
@@ -4569,10 +4569,10 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-05-28T18:47:01Z",
+            "last_commit": "2026-05-29T16:28:37Z",
             "owner": "spree",
             "repo": "spree",
-            "stars": 15439
+            "stars": 15441
           }
         },
         {
@@ -4595,7 +4595,7 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-05-28T18:04:26Z",
+            "last_commit": "2026-05-30T01:13:33Z",
             "owner": "stripe",
             "repo": "stripe-ruby",
             "stars": 2136
@@ -4740,7 +4740,7 @@
             "last_commit": "2026-04-25T13:24:46Z",
             "owner": "ryanb",
             "repo": "letter_opener",
-            "stars": 3840
+            "stars": 3841
           }
         },
         {
@@ -4753,7 +4753,7 @@
             "last_commit": "2026-05-19T01:28:29Z",
             "owner": "mikel",
             "repo": "mail",
-            "stars": 3674
+            "stars": 3673
           }
         },
         {
@@ -4815,7 +4815,7 @@
             "last_commit": "2026-05-29T02:22:28Z",
             "owner": "postalserver",
             "repo": "postal",
-            "stars": 16579
+            "stars": 16582
           }
         },
         {
@@ -4854,7 +4854,7 @@
             "last_commit": "2026-04-21T08:56:41Z",
             "owner": "sup-heliotrope",
             "repo": "sup",
-            "stars": 964
+            "stars": 965
           }
         },
         {
@@ -4878,7 +4878,7 @@
             "last_commit": "2026-03-27T19:38:11Z",
             "owner": "bcrypt-ruby",
             "repo": "bcrypt-ruby",
-            "stars": 1987
+            "stars": 1988
           }
         },
         {
@@ -5048,7 +5048,7 @@
             "last_commit": "2024-12-21T01:08:22Z",
             "owner": "airbrake",
             "repo": "airbrake",
-            "stars": 984
+            "stars": 985
           }
         },
         {
@@ -5084,7 +5084,7 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-05-28T13:09:02Z",
+            "last_commit": "2026-05-30T02:27:23Z",
             "owner": "errbit",
             "repo": "errbit",
             "stars": 4270
@@ -5141,7 +5141,7 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-05-25T10:06:32Z",
+            "last_commit": "2026-05-29T13:47:28Z",
             "owner": "getsentry",
             "repo": "sentry-ruby",
             "stars": 987
@@ -5189,7 +5189,7 @@
             "last_commit": "2026-05-27T17:31:40Z",
             "owner": "RailsEventStore",
             "repo": "rails_event_store",
-            "stars": 1532
+            "stars": 1533
           }
         }
       ],
@@ -5218,10 +5218,10 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-05-20T20:05:00Z",
+            "last_commit": "2026-05-29T17:38:42Z",
             "owner": "flippercloud",
             "repo": "flipper",
-            "stars": 3942
+            "stars": 3943
           }
         },
         {
@@ -5257,7 +5257,7 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-03-17T09:49:13Z",
+            "last_commit": "2026-05-29T08:28:26Z",
             "owner": "Unleash",
             "repo": "unleash-ruby-sdk",
             "stars": 62
@@ -5305,7 +5305,7 @@
             "last_commit": "2026-05-23T05:41:05Z",
             "owner": "carrierwaveuploader",
             "repo": "carrierwave",
-            "stars": 8784
+            "stars": 8785
           }
         },
         {
@@ -5834,7 +5834,7 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-03-31T07:06:15Z",
+            "last_commit": "2026-05-29T16:46:22Z",
             "owner": "sds",
             "repo": "overcommit",
             "stars": 4009
@@ -6089,7 +6089,7 @@
             "last_commit": "2026-05-19T06:33:23Z",
             "owner": "lostisland",
             "repo": "faraday",
-            "stars": 5945
+            "stars": 5946
           }
         },
         {
@@ -6331,7 +6331,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-05-28T15:47:28Z",
+            "last_commit": "2026-05-30T05:14:02Z",
             "owner": "rmagick",
             "repo": "rmagick",
             "stars": 730
@@ -6389,10 +6389,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-05-28T22:05:37Z",
+            "last_commit": "2026-05-29T22:39:46Z",
             "owner": "mruby",
             "repo": "mruby",
-            "stars": 5574
+            "stars": 5575
           }
         },
         {
@@ -6525,7 +6525,7 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-04-06T00:35:53Z",
+            "last_commit": "2026-05-29T22:05:28Z",
             "owner": "svenfuchs",
             "repo": "rails-i18n",
             "stars": 4029
@@ -6675,7 +6675,7 @@
             "last_commit": "2026-05-25T02:27:19Z",
             "owner": "fluent",
             "repo": "fluentd",
-            "stars": 13544
+            "stars": 13545
           }
         },
         {
@@ -6727,7 +6727,7 @@
             "last_commit": "2024-11-10T20:02:22Z",
             "owner": "roidrage",
             "repo": "lograge",
-            "stars": 3571
+            "stars": 3572
           }
         },
         {
@@ -7004,7 +7004,7 @@
             "last_commit": "2025-03-06T20:05:45Z",
             "owner": "vmg",
             "repo": "redcarpet",
-            "stars": 5077
+            "stars": 5078
           }
         },
         {
@@ -7049,7 +7049,7 @@
             "last_commit": "2026-03-27T20:07:18Z",
             "owner": "Shopify",
             "repo": "measured",
-            "stars": 384
+            "stars": 383
           }
         },
         {
@@ -7091,10 +7091,10 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-05-28T17:55:08Z",
+            "last_commit": "2026-05-29T13:12:11Z",
             "owner": "fastlane",
             "repo": "fastlane",
-            "stars": 41585
+            "stars": 41589
           }
         },
         {
@@ -7225,7 +7225,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-05-28T16:02:53Z",
+            "last_commit": "2026-05-29T22:14:55Z",
             "owner": "sonic-pi-net",
             "repo": "sonic-pi",
             "stars": 11831
@@ -7464,7 +7464,7 @@
             "last_commit": "2025-07-01T20:01:10Z",
             "owner": "rpush",
             "repo": "rpush",
-            "stars": 2203
+            "stars": 2204
           }
         },
         {
@@ -7535,7 +7535,7 @@
             "last_commit": "2026-03-23T21:03:48Z",
             "owner": "kddnewton",
             "repo": "fast_underscore",
-            "stars": 38
+            "stars": 37
           }
         },
         {
@@ -7577,10 +7577,10 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-05-29T06:07:59Z",
+            "last_commit": "2026-05-29T20:16:47Z",
             "owner": "rails",
             "repo": "rails",
-            "stars": 58462
+            "stars": 58463
           }
         },
         {
@@ -7689,7 +7689,7 @@
             "last_commit": "2026-05-09T23:27:47Z",
             "owner": "jeremyevans",
             "repo": "sequel",
-            "stars": 5085
+            "stars": 5084
           }
         }
       ],
@@ -7749,7 +7749,7 @@
                 "last_commit": "2025-11-18T19:05:29Z",
                 "owner": "collectiveidea",
                 "repo": "audited",
-                "stars": 3496
+                "stars": 3497
               }
             },
             {
@@ -7775,7 +7775,7 @@
                 "last_commit": "2026-05-27T22:51:17Z",
                 "owner": "jhawthorn",
                 "repo": "discard",
-                "stars": 2401
+                "stars": 2406
               }
             },
             {
@@ -8603,7 +8603,7 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-05-28T23:06:39Z",
+            "last_commit": "2026-05-29T20:55:45Z",
             "owner": "newrelic",
             "repo": "newrelic-ruby-agent",
             "stars": 1209
@@ -8616,7 +8616,7 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-05-22T14:24:03Z",
+            "last_commit": "2026-05-29T13:45:06Z",
             "owner": "BaseSecrete",
             "repo": "rorvswild",
             "stars": 390
@@ -8832,7 +8832,7 @@
             "last_commit": "2025-01-01T20:08:57Z",
             "owner": "zombocom",
             "repo": "derailed_benchmarks",
-            "stars": 3057
+            "stars": 3056
           }
         },
         {
@@ -8923,7 +8923,7 @@
             "last_commit": "2026-04-02T15:07:07Z",
             "owner": "test-prof",
             "repo": "test-prof",
-            "stars": 2035
+            "stars": 2036
           }
         }
       ],
@@ -9004,7 +9004,7 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-05-28T22:02:05Z",
+            "last_commit": "2026-05-29T20:16:16Z",
             "owner": "Shopify",
             "repo": "job-iteration",
             "stars": 1300
@@ -9017,7 +9017,7 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-05-28T20:57:08Z",
+            "last_commit": "2026-05-29T17:07:22Z",
             "owner": "karafka",
             "repo": "karafka",
             "stars": 2244
@@ -9072,7 +9072,7 @@
             "last_commit": "2026-01-01T03:53:15Z",
             "owner": "que-rb",
             "repo": "que",
-            "stars": 2319
+            "stars": 2318
           }
         },
         {
@@ -9090,7 +9090,7 @@
             "last_commit": "2026-05-27T16:32:32Z",
             "owner": "ruby-shoryuken",
             "repo": "shoryuken",
-            "stars": 2121
+            "stars": 2122
           }
         },
         {
@@ -9399,7 +9399,7 @@
             "last_commit": "2026-03-02T03:08:54Z",
             "owner": "javan",
             "repo": "whenever",
-            "stars": 8871
+            "stars": 8872
           }
         }
       ],
@@ -9595,7 +9595,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Ruby",
-                "last_commit": "2026-05-27T13:30:57Z",
+                "last_commit": "2026-05-30T00:15:27Z",
                 "owner": "SciRuby",
                 "repo": "iruby",
                 "stars": 925
@@ -9810,10 +9810,10 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-05-28T18:41:17Z",
+            "last_commit": "2026-05-29T15:57:26Z",
             "owner": "toptal",
             "repo": "chewy",
-            "stars": 1902
+            "stars": 1901
           }
         },
         {
@@ -9891,7 +9891,7 @@
             "last_commit": "2026-03-04T15:27:04Z",
             "owner": "activerecord-hackery",
             "repo": "ransack",
-            "stars": 5864
+            "stars": 5863
           }
         },
         {
@@ -10016,10 +10016,10 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-05-27T17:32:47Z",
+            "last_commit": "2026-05-29T13:33:43Z",
             "owner": "rubysec",
             "repo": "bundler-audit",
-            "stars": 2750
+            "stars": 2751
           }
         },
         {
@@ -10055,10 +10055,10 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-05-28T22:48:21Z",
+            "last_commit": "2026-05-29T16:27:46Z",
             "owner": "rapid7",
             "repo": "metasploit-framework",
-            "stars": 38259
+            "stars": 38270
           }
         },
         {
@@ -10097,7 +10097,7 @@
             "last_commit": "2026-04-28T22:27:00Z",
             "owner": "sinatra",
             "repo": "sinatra",
-            "stars": 12433
+            "stars": 12432
           }
         },
         {
@@ -10123,7 +10123,7 @@
             "last_commit": "2026-05-27T18:02:10Z",
             "owner": "github",
             "repo": "secure_headers",
-            "stars": 3224
+            "stars": 3225
           }
         },
         {
@@ -10136,7 +10136,7 @@
             "last_commit": "2026-04-02T15:43:24Z",
             "owner": "urbanadventurer",
             "repo": "WhatWeb",
-            "stars": 6596
+            "stars": 6597
           }
         },
         {
@@ -10215,10 +10215,10 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-05-29T06:14:32Z",
+            "last_commit": "2026-05-29T23:09:57Z",
             "owner": "decidim",
             "repo": "decidim",
-            "stars": 1757
+            "stars": 1758
           }
         },
         {
@@ -10231,7 +10231,7 @@
             "last_commit": "2026-04-29T23:08:52Z",
             "owner": "diaspora",
             "repo": "diaspora",
-            "stars": 13654
+            "stars": 13655
           }
         },
         {
@@ -10241,10 +10241,10 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-05-29T06:10:21Z",
+            "last_commit": "2026-05-29T22:51:27Z",
             "owner": "discourse",
             "repo": "discourse",
-            "stars": 47126
+            "stars": 47135
           }
         },
         {
@@ -10378,7 +10378,7 @@
             "last_commit": "2026-05-17T03:02:38Z",
             "owner": "aasm",
             "repo": "aasm",
-            "stars": 5212
+            "stars": 5213
           }
         },
         {
@@ -10601,7 +10601,7 @@
             "last_commit": "2026-05-26T03:04:14Z",
             "owner": "Shopify",
             "repo": "liquid",
-            "stars": 11801
+            "stars": 11802
           }
         },
         {
@@ -11084,7 +11084,7 @@
                 "last_commit": "2026-05-23T16:16:25Z",
                 "owner": "rubycdp",
                 "repo": "ferrum",
-                "stars": 2021
+                "stars": 2024
               }
             },
             {
@@ -11107,10 +11107,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Java",
-                "last_commit": "2026-05-29T01:20:09Z",
+                "last_commit": "2026-05-30T05:06:09Z",
                 "owner": "SeleniumHQ",
                 "repo": "selenium",
-                "stars": 34128
+                "stars": 34133
               }
             },
             {
@@ -11135,7 +11135,7 @@
             "last_commit": "2026-05-23T16:16:25Z",
             "owner": "rubycdp",
             "repo": "ferrum",
-            "stars": 2021
+            "stars": 2024
           }
         },
         {
@@ -11215,7 +11215,7 @@
                 "last_commit": "2026-05-28T01:28:50Z",
                 "owner": "mbj",
                 "repo": "mutant",
-                "stars": 2148
+                "stars": 2149
               }
             },
             {
@@ -11308,7 +11308,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Ruby",
-                "last_commit": "2026-05-14T06:34:49Z",
+                "last_commit": "2026-05-29T18:47:42Z",
                 "owner": "vcr",
                 "repo": "vcr",
                 "stars": 6070
@@ -11498,7 +11498,7 @@
             "last_commit": "2019-02-28T18:21:48Z",
             "owner": "facebookarchive",
             "repo": "instagram-ruby-gem",
-            "stars": 1446
+            "stars": 1447
           }
         },
         {
@@ -11659,7 +11659,7 @@
             "last_commit": "2026-05-25T01:49:41Z",
             "owner": "sferik",
             "repo": "x-cli",
-            "stars": 5562
+            "stars": 5563
           }
         },
         {
@@ -11750,7 +11750,7 @@
             "last_commit": "2026-05-07T18:12:01Z",
             "owner": "claudiob",
             "repo": "yt",
-            "stars": 760
+            "stars": 756
           }
         }
       ],
@@ -11795,7 +11795,7 @@
             "last_commit": "2025-01-28T23:57:23Z",
             "owner": "lisamelton",
             "repo": "video_transcoding",
-            "stars": 2507
+            "stars": 2508
           }
         }
       ],
@@ -11853,7 +11853,7 @@
             "last_commit": "2026-05-27T10:16:14Z",
             "owner": "ViewComponent",
             "repo": "view_component",
-            "stars": 3560
+            "stars": 3559
           }
         }
       ],
@@ -12182,7 +12182,7 @@
             "last_commit": "2026-05-27T07:39:30Z",
             "owner": "socketry",
             "repo": "falcon",
-            "stars": 3001
+            "stars": 3000
           }
         },
         {
@@ -12213,7 +12213,7 @@
             "last_commit": "2026-05-28T21:31:49Z",
             "owner": "puma",
             "repo": "puma",
-            "stars": 7891
+            "stars": 7892
           }
         },
         {
@@ -12325,7 +12325,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-29T06:17:27.864Z",
+    "last_updated": "2026-05-30T05:51:01.486Z",
     "original_repository": "markets/awesome-ruby",
     "source_repository": "v1nvn/enhansome-ruby",
     "source_repository_description": null,
